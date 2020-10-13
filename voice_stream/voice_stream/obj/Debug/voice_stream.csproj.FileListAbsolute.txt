@@ -1,0 +1,11 @@
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\bin\Debug\voice_stream.exe.config
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\bin\Debug\voice_stream.exe
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\bin\Debug\voice_stream.pdb
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.csprojAssemblyReference.cache
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.Voice_Stream.resources
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.Properties.Resources.resources
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.csproj.GenerateResource.cache
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.csproj.CoreCompileInputs.cache
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.exe
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.pdb
+C:\Users\iotpc\source\repos\voice_stream\voice_stream\obj\Debug\voice_stream.Voice_Chat.resources
